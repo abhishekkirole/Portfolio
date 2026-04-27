@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Doctor Appointment Scheduler",
+    "problem": "Patients face difficulty booking doctor appointments efficiently and managing schedules digitally.",
+    "impact": "Developed a full-stack platform enabling doctor search, appointment booking, and real-time confirmations with secure role-based access for patients and doctors.",
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
+    "github": "https://github.com/abhishekkirole/Doctor-Appointment-Scheduler",
+    "live": "https://doctor-appointment-scheduler-ax2v.onrender.com/",
+    "image": "appointment scheduler.png"
+  },
+  {
+    "id": 2,
+    "title": "Career AI – Recommendation System",
+    "problem": "Students often lack personalized guidance when choosing career paths based on skills and market trends.",
+    "impact": "Built an AI-driven system that analyzes user profiles and suggests optimal career paths using machine learning, improving decision-making accuracy.",
+    "tech": ["React.js", "Django", "Python", "Machine Learning"],
+    "github": "https://github.com/abhishekkirole/career-recommendation-system",
+    "live": "",
+    "image": "career path.png"
+  },
+  {
+    "id": 3,
+    "title": "Plag-X – Plagiarism Detection Tool",
+    "problem": "Manual plagiarism detection is time-consuming and inefficient for academic content verification.",
+    "impact": "Created a Flask-based tool that analyzes document similarity using web scraping and text comparison techniques, improving detection efficiency.",
+    "tech": ["Python", "Flask", "JavaScript", "Web Scraping"],
+    "github": "https://github.com/abhishekkirole/plag-x",
+    "live": "",
+    "image": "plgx.png"
+  },
+  {
+    "id": 4,
+    "title": "Retail Data Analysis (EDA)",
+    "problem": "Businesses struggle to extract actionable insights from large retail datasets.",
+    "impact": "Performed exploratory data analysis to uncover sales trends, customer behavior, and product performance, enabling data-driven decisions.",
+    "tech": ["Python", "Pandas", "Matplotlib", "Seaborn"],
+    "github": "https://github.com/abhishekkirole/retail-eda",
+    "live": "",
+    "image": "eda.png"
+  }
+]

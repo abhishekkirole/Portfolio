@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Independent Full Stack Developer",
+    "company": "Self-Employed",
+    "duration": "Jan 2025 – Present",
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
+    "points": [
+      "Developed full-stack web applications using the MERN stack with authentication and REST APIs",
+      "Implemented secure JWT-based login systems and role-based access control",
+      "Designed scalable backend architectures and optimized API performance"
+    ]
+  },
+  {
+    "role": "Frontend & Backend Developer",
+    "company": "Doctor Appointment Scheduler (Project)",
+    "duration": "2025",
+    "tech": ["React.js", "Node.js", "MongoDB"],
+    "points": [
+      "Built a doctor appointment booking platform with search and scheduling features",
+      "Developed responsive UI components and integrated backend APIs",
+      "Enabled real-time booking workflows and improved user experience"
+    ]
+  },
+  {
+    "role": "Machine Learning Developer",
+    "company": "Career AI Recommendation System (Project)",
+    "duration": "2025",
+    "tech": ["Python", "Django", "Machine Learning"],
+    "points": [
+      "Developed an AI-based system to recommend career paths based on user data",
+      "Integrated ML models with a full-stack web application",
+      "Improved recommendation accuracy using data-driven approaches"
+    ]
+  },
+  {
+    "role": "Backend Developer",
+    "company": "Plag-X Plagiarism Detection Tool (Project)",
+    "duration": "2025",
+    "tech": ["Python", "Flask", "JavaScript"],
+    "points": [
+      "Built a plagiarism detection system using document similarity techniques",
+      "Implemented web scraping for content comparison and validation",
+      "Designed efficient backend logic for processing and analyzing text data"
+    ]
+  }
+]
