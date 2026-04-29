@@ -4,7 +4,7 @@ import { motion, useInView } from "framer-motion";
 const STATS = [
   { end: 5,   suffix: "+",   label: "Apps shipped",    sub: "deployed & live"   },
   { end: 15,  suffix: "+",  label: "Technologies",    sub: "across the stack"  },
-  { end: 2026, suffix: "",  label: "B.Tech",        sub: "IT graduate"       },
+  { end: 2027, suffix: "",  label: "B.Tech",        sub: "CSE(AIML) graduate"       },
 ];
 
 function useCountUp(target, isActive, duration = 1200) {
